@@ -5,7 +5,7 @@
 - 📫 Contrate me no email: fernandesjeferson539@gmail.com
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ze1czukdhycaluf3nzuacdf0duizjy3tfhbxabb8&rid=giphy.gif&ct=g"/>
+  <img align="right" top="500" height="300" width="350" alt="GIF" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ze1czukdhycaluf3nzuacdf0duizjy3tfhbxabb8&rid=giphy.gif&ct=g"/>
 
 <div align="center">
   <a href="https://github.com/Mecbossdev">
