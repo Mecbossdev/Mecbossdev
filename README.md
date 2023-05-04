@@ -1,7 +1,5 @@
 ### Olá! Eu sou o Jeferson Fernandes
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando Typescript
 - 📫 Contrate me no email: fernandesjeferson539@gmail.com
 
 <a target="_blank" align="center">
